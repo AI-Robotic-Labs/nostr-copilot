@@ -1,7 +1,8 @@
 # Nostr Copilot 🤖🟣
 
-*Nostr Copilot is a framework that integrates the Nostr protocol, artificial intelligence (AI), and the Bitcoin ecosystem, connecting these three systems into one cohesive platform.
-How It Works*
+*Nostr Copilot is a framework that integrates the Nostr protocol, artificial intelligence (AI), and the Bitcoin ecosystem, connecting these three systems into one cohesive platform.*
+
+### How It Works
 
 - The user creates an nsec (Nostr private key) and selects an LLM (Large Language Model) such as OpenAI, Mistral, DeepSeek, etc.
 - The user then adds an API key locally using a .env file or via a third-party server, such as AWS.
@@ -13,7 +14,7 @@ How It Works*
 - Lightning Network address
 - Liquid Network address
 
-## Agent example
+### Agent example
 
 ```json
 {
