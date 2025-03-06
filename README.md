@@ -42,4 +42,4 @@ How It Works*
     "owner": "npub1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   }
 }
-``
+```
