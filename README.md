@@ -22,7 +22,8 @@ How It Works*
   "ai_agent": {
     "model": "mistral-7b",
     "provider": "xAI",
-    "description": "A lightweight AI model optimized for Nostr interactions."
+    "description": "A lightweight AI model optimized for Nostr interactions.",
+    "prompt": "You are a helpful AI assistant integrated with Nostr. Your role is to assist users in generating posts, analyzing Nostr events, and providing insights about Bitcoin and Lightning transactions. Respond concisely, use a friendly tone, and prioritize privacy and decentralization in your advice."
   },
   "api_key": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "options": {
