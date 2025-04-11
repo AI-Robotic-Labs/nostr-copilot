@@ -48,4 +48,4 @@
 
 ## Roadmap
 
-- [ ] Demo implementation
+- [ ] Demo implementation in JS
