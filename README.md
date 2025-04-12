@@ -48,4 +48,5 @@
 
 ## Roadmap
 
-- [ ] Demo implementation in JS
+- [x] Demo implementation in JS
+- [ ] Real world protocol
